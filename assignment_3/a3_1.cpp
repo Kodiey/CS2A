@@ -4,17 +4,9 @@ Professor Harden
 CS2A
 7/11/2018
 a3_1.cpp
-*/
 
 
 
-#include <iostream>
-#include <iomanip>
-
-using namespace std;
-
-
-/*
 The purpose of this program is to calculate the area of a two-dimensional
 figure: a square or a triangle. The program will prompt the user to input
 a letter: "t" (for triangle) or "s" (for square). If user correctly enters
@@ -24,6 +16,10 @@ ask for length of the base and height of the triangle. Assuming the inputs are
 correct, the program will print out the area of the specified shape.
 */
 
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
 
 
 

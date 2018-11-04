@@ -1,11 +1,21 @@
 /*
-Oscar Diec
 CS2A
 Professor Harden
 a6_1.cpp
 7/19/2018
-*/
 
+This program draws a rocketship that is blasting off. The program
+prompts the user to input three specific dimensions: width, height,
+and stages.
+- Width is how wide the rocketship will be and the height of the cones.
+- Height is how tall the stages/boxes will be.
+- Stages is the number of boxes will be included in the rocket.
+
+In the main function, we have to initiate the parameters (dimensions) and
+two function calls to get dimensions from user and another to draw the rocket.
+Based on the parity (even/odd) of the inputted parameters, drawRocket()
+will delegate to the correct functions to will properly draw a rocket.
+*/
 
 #include <iostream>
 using namespace std;
@@ -27,19 +37,7 @@ void drawBox(int width, int height);
 void drawRocket(int width, int height, int stages);
 
 
-/*
-This program draws a rocketship that is blasting off. The program
-prompts the user to input three specific dimensions: width, height,
-and stages.
-- Width is how wide the rocketship will be and the height of the cones.
-- Height is how tall the stages/boxes will be.
-- Stages is the number of boxes will be included in the rocket.
 
-In the main function, we have to initiate the parameters (dimensions) and
-two function calls to get dimensions from user and another to draw the rocket.
-Based on the parity (even/odd) of the inputted parameters, drawRocket()
-will delegate to the correct functions to will properly draw a rocket.
-*/
 int main(){
 	int width;
 	int height;

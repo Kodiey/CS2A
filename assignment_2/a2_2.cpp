@@ -1,13 +1,10 @@
 /*
-	Oscar Diec
 	CS2A
 	7/4/18
 	Professor David Harden
 	a2_2.cpp
-*/
-
-
-/*
+	
+	
 The purpose of this program is to convert user-input (double) Celsius and
 convert the value to (double) Fahrenheit. The program starts by prompting 
 the user for Celsius value. It relies on the Celsius to Fahrenheit converting 

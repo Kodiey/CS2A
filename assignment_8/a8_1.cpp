@@ -1,23 +1,18 @@
 /*
-Oscar Diec
 a8_1.cpp
 Professor Harden
 CS2A
-*/
-
-#include <iostream>
-using namespace std;
-
-// This program allows one to add, subtract, multiply, divide, create, print,
-// and check the equality of fractions. In order to do this, we have to create
-// a custom Fraction class with two data memebers: numerator and denominator.
 
 
-// This class declaration, Fraction, allows user to contracturo a Fraction 
-// object and all these Fraction objects can be printed, added, subtracted,
-// multiplied, divded, setted and equalized.
+This program allows one to add, subtract, multiply, divide, create, print,
+and check the equality of fractions. In order to do this, we have to create
+a custom Fraction class with two data memebers: numerator and denominator.
 
-/*
+This class declaration, Fraction, allows user to contracturo a Fraction 
+object and all these Fraction objects can be printed, added, subtracted,
+multiplied, divded, setted and equalized.
+
+
 Functions
 Public Member Methods:
 void set(): Pre-condition: requires two input integers: numerator and denominator,
@@ -38,6 +33,11 @@ Fraction isEqualTo(): Pre-condition: requires another Fraction object
 		Post-Condition: returns a boolean to see if the two Fraction objects are
 		equal.
 */
+
+#include <iostream>
+using namespace std;
+
+
 
 
 class Fraction{

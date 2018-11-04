@@ -1,5 +1,4 @@
 /*
-Professor Harden
 CS2A
 7/11/2018
 a3_2.cpp

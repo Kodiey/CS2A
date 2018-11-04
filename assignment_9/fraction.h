@@ -1,5 +1,4 @@
 /*
-Oscar Diec
 Professor Dave Harden
 CS2A
 fraction.h

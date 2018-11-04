@@ -1,12 +1,12 @@
 /*
-Oscar Diec
-CS2a
+CS2A
 7/4/18
 Professor David Harden
 a2_3.cpp
-*/
 
-/*
+
+
+
 The purpose of this program is to get User's input of first, middle, and last 
 name. Then display the the name, initials, a range of letter(s) in the name, 
 and how long the name is.

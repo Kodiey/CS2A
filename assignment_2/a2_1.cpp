@@ -1,5 +1,4 @@
 /*
-Oscar Diec
 CS2A
 7/4/18
 Professor David Harden

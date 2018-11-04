@@ -1,5 +1,4 @@
 /*
-Oscar Diec
 Professor Dave Harden
 CS 2A
 a10_1.cpp

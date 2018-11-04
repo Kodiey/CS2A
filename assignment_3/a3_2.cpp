@@ -1,5 +1,4 @@
 /*
-Oscar Diec
 Professor Harden
 CS2A
 7/11/2018
